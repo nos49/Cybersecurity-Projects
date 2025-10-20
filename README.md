@@ -8,7 +8,7 @@ Each section links to a dedicated sub-repository containing project notes, tools
 ### 🧠 Threat Intelligence
 Research and analysis of adversary behavior using frameworks like MITRE ATT&CK and VirusTotal.
 
-🔗 [Sub-Repo Link](#) *(coming soon)*
+🔗 [Sub-Repo Link](https://github.com/nos49/Threat-Intelligence-Projects)
 
 ---
 
